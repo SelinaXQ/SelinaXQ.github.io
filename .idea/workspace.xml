@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cc919d4-2661-4424-b9ac-5f9a3c1a6d80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume_qian_xiang.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/christmas.html" afterPath="$PROJECT_DIR$/christmas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="7cc919d4-2661-4424-b9ac-5f9a3c1a6d80" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -124,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514355932628</updated>
-      <workItem from="1514355934220" duration="360000" />
+      <workItem from="1514355934220" duration="426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360000" />
+    <option name="totallyTimeSpent" value="426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
