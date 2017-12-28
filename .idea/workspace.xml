@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cc919d4-2661-4424-b9ac-5f9a3c1a6d80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/christ_sketch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/navigation.png" afterPath="$PROJECT_DIR$/images/navigation.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/christmas.html" afterPath="$PROJECT_DIR$/christmas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/paintings.html" afterPath="$PROJECT_DIR$/paintings.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/steam.html" afterPath="$PROJECT_DIR$/steam.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="christmas.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="christmas.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/christmas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="77" column="76" lean-forward="false" selection-start-line="77" selection-start-column="76" selection-end-line="77" selection-end-column="76" />
+            <state relative-caret-position="345">
+              <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -34,8 +32,8 @@
       <file leaf-file-name="steam.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steam.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="908">
-              <caret line="146" column="62" lean-forward="false" selection-start-line="146" selection-start-column="62" selection-end-line="146" selection-end-column="62" />
+            <state relative-caret-position="345">
+              <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -71,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/head.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -86,10 +84,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/steam.html" />
-        <option value="$PROJECT_DIR$/christmas.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/paintings.html" />
+        <option value="$PROJECT_DIR$/steam.html" />
+        <option value="$PROJECT_DIR$/christmas.html" />
       </list>
     </option>
   </component>
@@ -125,11 +123,6 @@
             <path>
               <item name="SelinaXQ.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SelinaXQ.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SelinaXQ.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SelinaXQ.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514355932628</updated>
-      <workItem from="1514355934220" duration="7163000" />
+      <workItem from="1514355934220" duration="7368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7163000" />
+    <option name="totallyTimeSpent" value="7368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -224,22 +217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christmas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="77" column="76" lean-forward="false" selection-start-line="77" selection-start-column="76" selection-end-line="77" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/steam.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="908">
-          <caret line="146" column="62" lean-forward="false" selection-start-line="146" selection-start-column="62" selection-end-line="146" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -259,6 +236,22 @@
     <entry file="file://$PROJECT_DIR$/images/head.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/christmas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="54" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
