@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cc919d4-2661-4424-b9ac-5f9a3c1a6d80" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/christmas.html" afterPath="$PROJECT_DIR$/christmas.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/paintings.html" afterPath="$PROJECT_DIR$/paintings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/steam.html" afterPath="$PROJECT_DIR$/steam.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="christmas.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="christmas.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/christmas.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -52,18 +50,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="114" column="97" lean-forward="false" selection-start-line="114" selection-start-column="97" selection-end-line="114" selection-end-column="97" />
+            <state relative-caret-position="330">
+              <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paintings.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="paintings.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paintings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="102" column="101" lean-forward="false" selection-start-line="102" selection-start-column="101" selection-end-line="102" selection-end-column="101" />
+            <state relative-caret-position="345">
+              <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -89,10 +87,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/paintings.html" />
         <option value="$PROJECT_DIR$/steam.html" />
         <option value="$PROJECT_DIR$/christmas.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/paintings.html" />
       </list>
     </option>
   </component>
@@ -169,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514355932628</updated>
-      <workItem from="1514355934220" duration="9195000" />
+      <workItem from="1514355934220" duration="9252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9195000" />
+    <option name="totallyTimeSpent" value="9252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -219,22 +217,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="114" column="97" lean-forward="false" selection-start-line="114" selection-start-column="97" selection-end-line="114" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paintings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="102" column="101" lean-forward="false" selection-start-line="102" selection-start-column="101" selection-end-line="102" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/steam.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -255,6 +237,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="95" column="171" lean-forward="false" selection-start-line="95" selection-start-column="171" selection-end-line="95" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paintings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
           <folding />
         </state>
       </provider>
